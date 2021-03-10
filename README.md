@@ -33,6 +33,7 @@ The algorithm works in <b>O(n.logn)</b>. This is because the list is being split
 <b>Algorithmic Paradigm:</b> Divide and Conquer
 
 <b>Sorting In Place:</b> No in a typical implementation
+<p> Made by - Ayushi0901</p>
 
 <b>Stable:</b> Yes
 
