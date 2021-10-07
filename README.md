@@ -4,7 +4,7 @@
 <h3>About :</h3>
 <pre>
 Merge Sort is a Divide &Conquer Alogrithm.
-
+Merge Sort is the best type of sorting. 
 It divides input array in two halves,calls itself for the two halves.
 the merge(arr,l,m,r) is key process that assumes that arr{i....m} and arr{m+1...r}
 are sorted and merge the two sorted is sub arrays into one.
